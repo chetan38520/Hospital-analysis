@@ -1,9 +1,11 @@
 🏥 Hospital Management Dashboard Project
+
 📋 Project Overview
 This project focuses on building interactive dashboards to analyze hospital operations using real-world inspired datasets.
 The dashboards provide insights into patient demographics, appointments, treatments, doctor performance, and financial metrics — aimed at supporting hospital administration in making data-driven decisions.
 
 📁 Datasets Used
+
 Patients.csv — Patient demographics, registration, and insurance details
 
 Appointments.csv — Appointment scheduling, reasons for visit, and status tracking
@@ -15,6 +17,7 @@ Billing.csv — Billing records, payment methods, and revenue tracking
 Treatment.csv — Details of treatments provided, type, and associated costs
 
 📊 Key Dashboards & Insights
+
 1️⃣ Patient & Appointment Analysis
 Total registered patients
 
